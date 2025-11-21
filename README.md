@@ -61,32 +61,14 @@
 
 #### 文档
 
-- [地址](https://react-soybean-docs.ohh-889.com/index-cn?theme=dark)
+- [地址](https://admin-docsv1.skyroc.me)
 
-### Vue版本
 
-- **NaiveUI 版本:**
-  - [预览地址](https://naive.soybeanjs.cn/) - 基于 Vue3 + NaiveUI 构建的清新优雅后台管理模板
-  - [Github 仓库](https://github.com/soybeanjs/soybean-admin) - 获取最新源码，参与开源贡献
-  - [Gitee 仓库](https://gitee.com/honghuangdc/soybean-admin) - 国内镜像仓库，访问更快捷
-  - 特点:
-    - 完整的 TypeScript 支持
-    - 丰富的主题配置
-    - 优雅的代码风格
-    - 完善的文档说明
-- **AntDesignVue 版本:**
-  - [预览地址](https://antd.soybeanjs.cn/)
-  - [Github 仓库](https://github.com/soybeanjs/soybean-admin-antd)
-  - [Gitee 仓库](https://gitee.com/honghuangdc/soybean-admin-antd)
-
-- **旧版:**
-  - [预览地址](https://legacy.soybeanjs.cn/)
-  - [Github 仓库](https://github.com/soybeanjs/soybean-admin/tree/legacy)
 
 
 ## 符合Ant Design风格的保姆级文档
 
-- [地址](https://react-soybean-docs.ohh-889.com/index-cn?theme=dark)
+- [地址](https://admin-docsv1.skyroc.me)
 ![](https://ohh-1321526050.cos.ap-nanjing.myqcloud.com/docs-home.jpg)
 
 ## 示例图片

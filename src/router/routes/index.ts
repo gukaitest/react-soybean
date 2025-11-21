@@ -92,13 +92,13 @@ const customRoutes: CustomRoute[] = [
         name: 'document_project',
         path: 'project',
         props: {
-          url: 'https://react-soybean-docs.pages.dev/index-cn?theme=dark'
+          url: 'https://admin-docsv1.skyroc.me'
         }
       },
       {
         component: 'view.iframe-page',
         meta: {
-          href: 'https://react-soybean-docs.pages.dev/index-cn?theme=dark',
+          href: 'https://admin-docsv1.skyroc.me',
           i18nKey: 'route.document_project-link',
           localIcon: 'logo',
           order: 2,
