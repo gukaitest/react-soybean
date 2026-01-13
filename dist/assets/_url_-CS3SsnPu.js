@@ -1,0 +1,1 @@
+import{k as e,al as r}from"./index-BA7W61Th.js";import{u as n}from"./index-wZB2qypa.js";import"./tslib.es6-CwN1OpI9.js";function m({url:a}){const[s,{setFalse:o}]=n(!0);return e.jsxs(e.Fragment,{children:[s&&e.jsx(r,{active:!0}),e.jsx("div",{className:s?"h-0":"h-full",children:e.jsx("iframe",{className:"size-full",id:"iframePage",src:a,onLoad:o})})]})}export{m as Component};

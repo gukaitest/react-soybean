@@ -1,0 +1,1 @@
+import{r as u}from"./index-BA7W61Th.js";function l(o=!1){const[t,e]=u.useState(o);function n(){e(!0)}function s(){e(!1)}function a(){e(r=>!r)}return{bool:t,setBool:e,setFalse:s,setTrue:n,toggle:a}}function f(o=!1){const{bool:t,setFalse:e,setTrue:n}=l(o);return{endLoading:e,loading:t,startLoading:n}}export{l as a,f as u};
